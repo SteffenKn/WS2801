@@ -1,9 +1,4 @@
-import {Example, Person} from './index';
+import {WS2801} from './index';
 
-const example: Example = new Example();
-const person: Person = {
-  name: 'Peter',
-};
-
-example.hello(person);
-example.start();
+const ws2801: WS2801 = new WS2801();
+ws2801.start();
