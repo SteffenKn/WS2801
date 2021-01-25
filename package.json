@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/SteffenKn/ws2801#readme",
   "dependencies": {
-    "ws2801-alexa": "^0.3.2",
+    "ws2801-alexa": "^1.0.0",
     "ws2801-pi": "^1.2.0",
     "ws2801-webserver": "^1.0.0"
   },
