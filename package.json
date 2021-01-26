@@ -1,6 +1,6 @@
 {
   "name": "ws2801",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "This package combines the following packages: ws2801-pi, ws2801-webser and ws2801-alexa.",
   "main": "dist/index.js",
   "scripts": {
